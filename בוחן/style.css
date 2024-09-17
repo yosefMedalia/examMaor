@@ -1,0 +1,20 @@
+
+.aaa{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+
+#square {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    display: none; 
+}
